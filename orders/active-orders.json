@@ -1,0 +1,26 @@
+[
+  {
+    "id": "JD-2024-001",
+    "customerName": "Budi Santoso",
+    "pickupDate": "2024-12-20",
+    "pickupTime": "14:00",
+    "items": [
+      {
+        "id": "1",
+        "name": "Proll Tape",
+        "price": 115000,
+        "quantity": 2
+      },
+      {
+        "id": "2",
+        "name": "Risol Tower",
+        "price": 130000,
+        "quantity": 1
+      }
+    ],
+    "total": 360000,
+    "status": "dibatalkan",
+    "createdAt": "2025-10-29T19:06:43.481Z",
+    "updatedAt": "2025-10-29T19:11:00.914Z"
+  }
+]
